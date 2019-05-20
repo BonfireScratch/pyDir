@@ -3,7 +3,9 @@ A small script that offers commands for files and directories
 
 # How to use
 On the command prompt:
-```bash > python main.py *PATH GOES HERE* *MODE GOES HERE*```
+```bash 
+> python main.py directory *PATH GOES HERE* mode *MODE GOES HERE*
+```
 
 ### Path
 The path is the full location of a directory or a file (e.g. "C:\Users\Me\myFolder\", or "C:\Users\Me\myFolder\notes.txt")
