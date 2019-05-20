@@ -8,7 +8,7 @@ On the command prompt:
 ```
 
 ### Path
-The path is the full location of a directory or a file (e.g. "C:\Users\Me\myFolder\", or "C:\Users\Me\myFolder\notes.txt")
+The path is the full location of a directory or a file (e.g. `"C:\Users\Me\myFolder\"`, or `"C:\Users\Me\myFolder\notes.txt"`)
 
 ### Mode
 The mode specifies what the program will do:
